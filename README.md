@@ -29,13 +29,13 @@
 > [OMDb API](http://www.omdbapi.com/)
 - - - -
 ## Screenshots of Liri in progress:
-using "concert-this":
-![Image of concert this](pictures/Screenshot_1.png)
-using "spotify-this-song":
-![Image of spotify-this-song](pictures/Screenshot_2.png)
-using "movie-this":
-![Image of movie-this](pictures/Screenshot_3.png)
-using "do-what-this-says":
-![Image of concert this](pictures/Screenshot_4.png)
-the random.txt information used in do-what-this-says:
-![Image of concert this](pictures/Screenshot_5.png)
+* using "concert-this":
+    * ![Image of concert this](pictures/Screenshot_1.png)
+* using "spotify-this-song":
+    * ![Image of spotify-this-song](pictures/Screenshot_2.png)
+* using "movie-this":
+    * ![Image of movie-this](pictures/Screenshot_3.png)
+* using "do-what-this-says":
+    * ![Image of concert this](pictures/Screenshot_4.png)
+* the random.txt information used in do-what-this-says:
+    * ![Image of concert this](pictures/Screenshot_5.png)
