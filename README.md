@@ -7,14 +7,14 @@
 #
 ## Instructions for Use
 ### In the command line, type in one of the following:
-    * node liri.js "concert-this" <artist name>
-        * where <artist name> is replaced with the desired query.
-    * node liri.js "spotify-this-song" <song title>
-        * Where <song name> is the desired track query.
-    * node liri.js "movie-this" <title>
-        * Where <title> is the name of the movie.
-    * node liri.js "do-what-it-says"
-        * Which runs the spotify feature using the text on "random.txt"
+* node liri.js "concert-this" <artist name>
+    * where <artist name> is replaced with the desired query.
+* node liri.js "spotify-this-song" <song title>
+* Where <song name> is the desired track query.
+* node liri.js "movie-this" <title>
+    * Where <title> is the name of the movie.
+* node liri.js "do-what-it-says"
+    * Which runs the spotify feature using the text on "random.txt"
 ## Packages used:
 > [Node.js](https://nodejs.org/en/)
 
